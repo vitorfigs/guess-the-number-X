@@ -11,7 +11,7 @@ Jogo interativo desenvolvido no **Logisim** onde dois jogadores competem para ad
   <summary><a href="#circuito-main">Clique para abrir a visão geral do circuito</a></summary>
   <br>
   <div align="center">
-    <img src="./img/visao_geral.png" alt="Visão Geral do Sistema" width="65%">
+    <img src="./img/visao-geral.png" alt="Visão Geral do Sistema" width="65%">
   </div>
 </details>
 
